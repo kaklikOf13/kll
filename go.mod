@@ -1,3 +1,3 @@
-module github.com/kaklik!of13/kll
+module github.com/kaklikOf13/kll
 
 go 1.19
